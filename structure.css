@@ -1,0 +1,56 @@
+body{
+    background-image: url("background.jpg");
+    margin-left:100px;
+}
+
+h1{
+    color:rgb(216, 108, 180)
+}
+
+ul{
+    background-color: aquamarine;
+    height: 20px;
+    width:500px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+  }
+
+li a{
+    text-decoration: none;
+    display: inline;
+    margin:50px;
+    font-size: 20px;
+   
+  
+}
+li a:hover{
+    background-color: blue;
+    color:white
+}
+
+
+#tunisie{
+    font-family: Arial;
+    border:3px blue solid;
+    margin-top:50px;
+}
+
+
+#images{
+display: flex;
+margin-top: 50px;
+
+}
+
+
+
+img{
+    margin-right: 20px;
+}
+
